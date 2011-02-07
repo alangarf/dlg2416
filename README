@@ -1,0 +1,5 @@
+Generic driver for DLG2416 displays.
+
+It's very simple, and I've tried to make it very generic so that it's simply a matter of changing macros to handle different configurations. It's setup for an AVR at the moment. Hope it's helpful to someone.
+
+-A.
